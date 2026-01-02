@@ -1,4 +1,4 @@
-# COM3503 Assignment
+# Spacecraft
 This project involves using modern OpenGL to render a scene in Java. [Link to video demo](https://youtu.be/YPq3Qh4VAHE)
 
 ## Running the code
