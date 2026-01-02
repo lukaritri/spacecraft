@@ -1,5 +1,5 @@
 # COM3503 Assignment
-This project involves using modern OpenGL to render a scene in Java.
+This project involves using modern OpenGL to render a scene in Java. [Link to video demo](https://youtu.be/YPq3Qh4VAHE)
 
 ## Running the code
 
