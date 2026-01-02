@@ -3,6 +3,11 @@ This project involves using modern OpenGL to render a scene in Java.
 
 ## Running the code
 
+First, make sure you are in the `src` directory.
+```
+cd src/
+```
+
 `java Spacecraft` should work.
 ```
 java Spacecraft
